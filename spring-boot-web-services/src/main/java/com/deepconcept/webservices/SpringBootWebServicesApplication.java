@@ -1,4 +1,4 @@
-package com.deepconcept.webservices.springbootwebservices;
+package com.deepconcept.webservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
