@@ -57,5 +57,6 @@ public class UserResource {
 		
 		service.deleteUserById(id);
 	}
+
 	
 }
