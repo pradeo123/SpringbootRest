@@ -25,7 +25,7 @@ public class VersioningPersonController {
 	
 	//Factor To Consider
 	//URI Pollution
-	//misuse of heders
+	//misuse of headers
 	//cahing
 	//can we execute the request on the browser
 	//api documentation
